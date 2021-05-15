@@ -7,11 +7,7 @@
 
 ====================================================================================================================================================================
 ## Front End:
-![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png =288x288)
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="288" height="288">
-
-![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png =288x288)
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="100" height="100">  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="100" height="100">
 
 ## Programming Languages:
-![](https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.png =288x288)
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.png" width="100" height="100">
