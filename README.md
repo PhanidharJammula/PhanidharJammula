@@ -21,5 +21,5 @@
 * * *
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/phanidhar-j-7b5988114/"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" width="20" height="20"></a>&nbsp;&nbsp;&nbsp;&nbsp;    <a href="https://www.instagram.com/phanidhar.jammula/"> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" width="20" height="20"></a>&nbsp;&nbsp;&nbsp;&nbsp;    <a href="https://github.com/PhanidharJammula"> <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/png/github.png" width="20" height="20"></a>   
+<a href="https://www.linkedin.com/in/phanidhar-j-7b5988114/"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" width="30" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;    <a href="https://www.instagram.com/phanidhar.jammula/"> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" width="30" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;    <a href="https://github.com/PhanidharJammula"> <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/png/github.png" width="30" height="30"></a>   
 * * *
