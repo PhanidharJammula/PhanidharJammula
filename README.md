@@ -1,4 +1,4 @@
-# [Phanidhar Jammula](https://github.com/PhanidharJammula)
+## [Phanidhar Jammula](https://github.com/PhanidharJammula)
 
 ### I'm a Software Engineer!
 
@@ -17,13 +17,13 @@
 #### Databases:
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" width="80" height="80">    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/redis.svg" width="80" height="80">    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/cassandra.svg" width="80" height="80">
 
-
+* * *
 
 #### Connect with me:
 <a href="https://github.com/PhanidharJammula"> <img src="
-https://github.com/edent/SuperTinyIcons/blob/master/images/png/github.png" width="80" height="80">    
-   
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/cassandra.svg" width="80" height="80">    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/cassandra.svg" width="80" height="80">
+https://github.com/edent/SuperTinyIcons/blob/master/images/png/github.png" width="80" height="80"></a>    <a href="https://www.instagram.com/phanidhar.jammula/"> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" width="80" height="80"></a>    <a href="https://www.linkedin.com/in/phanidhar-j-7b5988114/"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" width="80" height="80"></a>
+
+* * *
 
 https://github.com/edent/SuperTinyIcons/blob/master/images/png/github.png
 https://www.linkedin.com/in/phanidhar-j-7b5988114/
