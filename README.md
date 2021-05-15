@@ -4,4 +4,15 @@
     * :seedling: I am currently learning something crazy
 
 
-![](https://komarev.com/ghpvc/?username=PhanidharJammula&style=flat-square)
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
+-OR-
+
+ Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
+
