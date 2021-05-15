@@ -1,4 +1,4 @@
-** ## [Phanidhar Jammula] (https://github.com/PhanidharJammula) **
+## **Phanidhar Jammula** (https://github.com/PhanidharJammula)
 
 I'm a Developer and an Engineer!
 
